@@ -22,7 +22,7 @@ Confira meu portfólio online para ver alguns dos meus projetos anteriores e tra
 
 Aqui estão alguns dos meus projetos recentes:
 
-1. **[Hamburgueria](link_para_o_projeto)**
+1. **[Hamburgueria](https://github.com/LeoCMatos/Hamburgueria)**
 
    - Um projeto de hamburgueria em desenvolvimento, com recursos planejados como pedidos online e controle de estoque, por enquanto está apenas cadastrando produtos e editando.
 
